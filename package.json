@@ -15,7 +15,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "AxellNetwork",
+  "author": "Nazir99inf",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
